@@ -21,7 +21,7 @@
 		<div class="input-wraper">
 			<input type="submit" name="entrar" value="Login" class="button">
 		</div>
-		<a href="" class="forgot">Esqueceu sua senha?</a>
+		<a href="recuperar-senha.php" class="forgot">Esqueceu sua senha?</a>
 	</form>
 
 	<p id="cadastre">
