@@ -56,20 +56,20 @@ body {
 
 .input {
 	transition: 0.2s ease-out;
-	color:  #9c9c9c;
+	color:  #565656;
 	font-weight: 600;
 	width: 100%;
 	padding: 2px;
 	outline: none;
 	border: none;
-	border-bottom: 1px solid  #9c9c9c;
+	border-bottom: 1px solid  #565656;
     font-size: 16px;
 	margin: 6px 0;
 }
 
 .input-label {
 	transition: 0.2s ease-out;
-	color:  #9c9c9c;
+	color:  #565656;
 	position: relative;
 	pointer-events: none;
 	top: -28px;
@@ -174,7 +174,7 @@ body {
 #cadastre {
 	text-align: center;
 	font-size: 14px;
-	color: #9c9c9c;
+	color: #565656;
 }
 
 #cadastre a {
